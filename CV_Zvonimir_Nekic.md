@@ -92,8 +92,11 @@ Srednja stručna sprema (SSS)
 | Osnove programskih jezika  | Python, C, C++  |
 | Frontend | HTML, CSS, JavaScript |
 |Rad s bazama podataka| MySQL, PostgreSQL, MongoDB, MariaDB, ...|
-|Sustavi za verzioniranje i suradnički rad|Git, GitHub, Google Drive|
-###Društvene vještine i kompetencije
+|Sustavi za verzioniranje i suradnički rad|Git, GitHub, Google Drive|\
+
+
+
+### Društvene vještine i kompetencije
 Komunikativnost, tolerantost i strpljivost, prilagodljivost, otvorenost, kreativnost, spremnost na suradnju, odgovornost i pouzdanost, brzo učenje i savladavanje novih izazova
 
 
