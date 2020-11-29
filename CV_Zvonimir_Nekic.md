@@ -84,7 +84,8 @@ Srednja stručna sprema (SSS)
 |Govorna interakcija - C2| Govorna interakcija - B2|
 |Govorna produkcija - C2| Govorna produkcija - B2|
 |Pisanje - C1|Pisanje - /|
-###Digitalne vještine
+
+### Digitalne vještine
  <!-- Tables -->
 | Naziv    | Vjestine          
 | -------- | -------------- |
@@ -92,9 +93,7 @@ Srednja stručna sprema (SSS)
 | Osnove programskih jezika  | Python, C, C++  |
 | Frontend | HTML, CSS, JavaScript |
 |Rad s bazama podataka| MySQL, PostgreSQL, MongoDB, MariaDB, ...|
-|Sustavi za verzioniranje i suradnički rad|Git, GitHub, Google Drive|\
-
-
+|Sustavi za verzioniranje i suradnički rad|Git, GitHub, Google Drive|
 
 ### Društvene vještine i kompetencije
 Komunikativnost, tolerantost i strpljivost, prilagodljivost, otvorenost, kreativnost, spremnost na suradnju, odgovornost i pouzdanost, brzo učenje i savladavanje novih izazova
